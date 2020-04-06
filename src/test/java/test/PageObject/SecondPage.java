@@ -13,7 +13,7 @@ import java.util.logging.LogRecord;
 import java.util.logging.Logger;
 
 public class SecondPage {
-    ////*[@class="purch-reestr-tbl-div"] блок
+   
     private WebDriver chromeDriver;
     private WebElement searchField;
     private WebElement searchButton;
